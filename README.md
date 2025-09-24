@@ -32,3 +32,16 @@ Configure the database connection in the hibernate.cfg.xml file
 Use Maven to build the project
 
 Run the application
+
+
+Usage:
+
+This application allows you to manage library books and users through CRUD operations.
+
+You can extend it by adding a REST API or a user interface in the future.
+
+
+License:
+
+This project is open source and available under the MIT License.
+
